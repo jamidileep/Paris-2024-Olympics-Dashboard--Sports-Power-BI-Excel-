@@ -1,37 +1,58 @@
- <h2>Project Highlights:</h2>
-    <h3>KPI Tracking:</h3>
-    <p>We’ve meticulously tracked the heartbeat of the games:</p>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paris 2024 Olympics Dashboard</title>
+    <style>
+        /* Add any custom CSS styles here */
+    </style>
+</head>
+<body>
+    <h1>Paris 2024 Olympics Dashboard</h1>
+    <img src="link_to_image_or_logo.png" alt="Paris 2024 Olympics Logo">
+    <h2>Overview</h2>
+    <p>The Paris 2024 Olympics Dashboard is a data visualization project that provides insights into key performance indicators (KPIs) related to the Olympic Games. It leverages Power BI and Excel to present valuable information in an interactive format.</p>
+    
+   <h2>Key Metrics</h2>
     <ul>
-        <li>Total Medals: A whopping 1044 medals—each representing a triumph of sweat and spirit.</li>
-        <li>Participating Countries: A global gathering of 206 nations, united by the Olympic flame.</li>
-        <li>Teams: 1698 squads, each chasing their golden dreams.</li>
-        <li>Athletes: A staggering 11,000 competitors—each with a story etched in pixels.</li>
+        <li>Total Medals: 1044</li>
+        <li>Participating Countries: 206</li>
+        <li>Teams: 1698</li>
+        <li>Athletes: 11,000</li>
     </ul>
 
-    <h3>Visual Symphony:</h3>
-    <p>Our canvas comes alive with:</p>
-    <ul>
-        <li>Stacked Bar Charts: Visualize medal distributions, country-wise.</li>
-        <li>Pie Charts: Slice through data to reveal proportions.</li>
-        <li>Maps: Pinpoint performance hotspots across continents.</li>
-    </ul>
+   <h2>Features</h2>
+    <ol>
+        <li>
+            <strong>Visual Insights:</strong>
+            <ul>
+                <li>Utilized stacked bar charts, pie charts, and maps to visually represent country-wise and athlete performance.</li>
+                <li>These visualizations allow users to quickly grasp trends and patterns.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Data Modeling:</strong>
+            <ul>
+                <li>Applied data modeling techniques to optimize relationships within the dataset.</li>
+                <li>Improved dashboard performance for seamless interactive analysis of KPIs.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Strategic Decision Support:</strong>
+            <ul>
+                <li>The dashboard provides actionable insights into performance trends.</li>
+                <li>Enables data-driven decisions and aids strategic planning for future Olympic events.</li>
+            </ul>
+        </li>
+    </ol>
 
-    <h3>Data Modeling Magic:</h3>
-    <p>Behind the scenes, we’ve woven data relationships tighter than a relay baton handoff. It’s all about optimizing performance—just like an athlete fine-tuning their stride.</p>
+   <h2>Presentation Link</h2>
+    <p><a href="https://your-presentation-link-here">Link to the Paris 2024 Olympics Dashboard Presentation</a></p>
 
-    <h3>Insights Unleashed:</h3>
-    <p>Dive into performance trends:</p>
-    <ul>
-        <li>Which countries surged ahead?</li>
-        <li>Which athletes defied gravity?</li>
-        <li>Where did records shatter like glass?</li>
-    </ul>
+ <!-- Feel free to add any additional sections or customize further! -->
 
-    <h2>How to Explore:</h2>
-    <p>As the Paris 2024 Olympics unfold, this dashboard stands ready—like a coach on the sidelines, whispering insights into the ears of decision-makers.</p>
-    <ul>
-        <li><strong>Power BI Dashboard:</strong> <a href="https://your-dashboard-link">Click here</a> to experience the magic firsthand. Interact, explore, and let the Olympic spirit guide you.</li>
-        <li><strong>Excel Companion:</strong> For the spreadsheet aficionados, we’ve got an Excel version too! <a href="https://your-excel-link">Download it here</a> and crunch those numbers.</li>
-    </ul>
-
-    <p>If you have questions, feedback, or just want to chat about Olympic trivia, drop us a line. Let’s keep the torch burning! 🗣️🔥</p>
+   <script>
+        // Add any custom JavaScript here
+    </script>
+</body>
+</html>
