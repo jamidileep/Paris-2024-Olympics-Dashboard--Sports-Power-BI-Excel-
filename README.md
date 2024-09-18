@@ -1,4 +1,4 @@
-<title>Paris 2024 Olympics Dashboard 🏅🌟<title><br>
+<h4>Paris 2024 Olympics Dashboard 🏅🌟<\h4>h4><br>
 Welcome to the Paris 2024 Olympics Dashboard—a dynamic fusion of sports, data, and visual storytelling. Whether you’re an athlete, an analyst, or just a curious soul, this dashboard has something for everyone.
 <br>
 Project Highlights:<br>
