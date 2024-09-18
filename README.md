@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paris 2024 Olympics Dashboard 🏅🌟</title>
-    <!-- Add any additional meta tags, stylesheets, or scripts here -->
-</head>
-<body>
-    <h1>Welcome to the Paris 2024 Olympics Dashboard</h1>
-    <p>A dynamic fusion of sports, data, and visual storytelling awaits you! Whether you’re an athlete, an analyst, or just a curious soul, this dashboard has something for everyone.</p>
-
-    <h2>Project Highlights:</h2>
+ <h2>Project Highlights:</h2>
     <h3>KPI Tracking:</h3>
     <p>We’ve meticulously tracked the heartbeat of the games:</p>
     <ul>
@@ -47,5 +35,3 @@
     </ul>
 
     <p>If you have questions, feedback, or just want to chat about Olympic trivia, drop us a line. Let’s keep the torch burning! 🗣️🔥</p>
-</body>
-</html>
